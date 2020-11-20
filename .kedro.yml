@@ -1,0 +1,6 @@
+context_path: advanced_analytics_project.run.ProjectContext
+project_name: "aa_project"
+project_version: "0.16.6"
+package_name: "advanced_analytics_project"
+hooks:
+  - advanced_analytics_project.hooks.project_hooks
